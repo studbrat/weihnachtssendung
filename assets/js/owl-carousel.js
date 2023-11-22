@@ -205,12 +205,12 @@
 		startPosition: 0,
 		rtl: false,
 
-		smartSpeed: 250,
+		smartSpeed: 0,
 		fluidSpeed: false,
 		dragEndSpeed: false,
 
 		responsive: {},
-		responsiveRefreshRate: 200,
+		responsiveRefreshRate: 0,
 		responsiveBaseElement: window,
 
 		fallbackEasing: 'swing',
@@ -2719,7 +2719,7 @@
 	 */
 	Autoplay.Defaults = {
 		autoplay: false,
-		autoplayTimeout: 5000,
+		autoplayTimeout: 500000,
 		autoplayHoverPause: false,
 		autoplaySpeed: false
 	};
