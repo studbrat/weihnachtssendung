@@ -31,4 +31,6 @@ Chat GPT
 https://console.cloud.google.com/google/maps-apis/discover
 http://kenwheeler.github.io (Teil Icons)
 https://owlcarousel2.github.io/OwlCarousel2/ (Teil Icons)
+https://sizzlejs.com/
+https://jquery.com/
 https://templatemo.com/tm-573-eduwell
